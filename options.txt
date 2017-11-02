@@ -1,4 +1,4 @@
-Available options:
+Here is all available options:
 
     username:          Username for authentication purposes.
     password:          Password for authentication purposes.
